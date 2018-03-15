@@ -3,11 +3,11 @@ I have tested this program and it has no issues.
 
 /Users/phuocquang/Documents/832/Week6/Project6Shopping/cmake-build-debug/Project6Shopping
 
-Customer info: 1234 PHUOC QUANG
+Customer info: 3456 PHUOC QUANG
 * Item 1) Book: Princess, new Version 2.1, $20.00, 200 pages
-* Item 2) Movie: Titanic, 1999 year, $22.50, 120 minutes
+* Item 2) Movie: Titanic, 1999 year, $22.50, 122 minutes
 * Item 3) CD: Britney Spear, 2001 year, $30.00, 12 tracks
-* Item 4) CD: Ed Sheeran, 2017 year, $30.00, 11 tracks
-* Item 5) Movie: Jame Bond, 1995 year, $22.50, 120 minutes
+* Item 4) CD: Ed Sheeran, 2017 year, $30.00, 13 tracks
+* Item 5) Movie: Jame Bond, 1995 year, $22.50, 125 minutes
 
 Process finished with exit code 4
